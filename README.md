@@ -1,16 +1,16 @@
-### Hi there 👋
+ Hi there 👋, Hii, It's Anu Jaiswal
+ Machine Learning, Data Scientist Enthusiast
 
-<!--
-**Anujaiswal212/Anujaiswal212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linkedin: https://www.linkedin.com/in/anujaiswal/
+Gmail: anujaiswal152207@gmail.com
 
-Here are some ideas to get you started:
+To utilize my knowledge and ideas in this field of machine learning and data science toward the smooth functioning of the organization, I realized that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, getting failed, and trying again and finally succeeding in the project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Machine Learning / Deep Learning / NLP / Python 
+
+
+
+
+
+
+
